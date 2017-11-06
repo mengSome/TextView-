@@ -1,1 +1,1 @@
-可用XIB可不用，看自己个人喜好，以厦门国际银行为例，创建一个TextView的的的的的的的的的的的，继承自YZInputView，然后让页面高度随文字增加而改变即可
+可用XIB可不用，看自己个人喜好，以XIB为例子,创建一个textview继承YZInputView即可
